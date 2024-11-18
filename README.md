@@ -71,3 +71,6 @@ Untuk melihat grafik alur HTTP, dapat menggunakan fitur Flow Graph di Wireshark 
 5. **Penutupan Koneksi**: Jika tidak ada permintaan lebih lanjut, koneksi TCP akan ditutup.
 
 Pada halaman Wiki Wireshark dapat menemukan file `http.cap` untuk mengunduh tangkapan paket HTTP sebagai sampel. Setelah diunduh, file tersebut bisa dibuka di Wireshark untuk melihat detail komunikasi dalam bentuk paket.
+### Hasil tangkapan layar
+![Flow1](https://github.com/infans4/Tugas-1_Penjelasan-Protokol-http.cap/blob/main/assets/Flow1.png)
+![Flow2](https://github.com/infans4/Tugas-1_Penjelasan-Protokol-http.cap/blob/main/assets/Flow2.png)
